@@ -10,4 +10,6 @@ A collection of small, useful scripts I use regularly.
   Trace full HTTP redirect chains using curl, showing every step.
 - [teleport](./teleport)  
   Quickly SSH into a host from your `~/.ssh/config` using `fzf` for fuzzy selection.
+- [uuid](./uuid)
+  Shell alias for generating lowercase UUIDs and copying them to the clipboard.
 
